@@ -41,10 +41,6 @@ MLOps-PrediksiRisikoHujan/
 ├── models/
 ├── notebooks/
 ├── src/
-│   ├── data/
-│   ├── features/
-│   ├── models/
-│   └── visualization/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
