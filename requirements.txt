@@ -1,0 +1,18 @@
+# Data & analysis
+pandas
+numpy
+requests
+
+# Visualization
+matplotlib
+seaborn
+
+# ML
+scikit-learn
+
+# Experiment tracking
+mlflow
+
+# Notebook
+jupyter
+ipykernel
